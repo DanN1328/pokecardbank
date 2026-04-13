@@ -45,5 +45,6 @@ def agregar_cartas(id: str):
 
     return {"Name": name,
             "Set" : set,
-            "Precio":precio}
+            "Precio":precio,
+            "Mensaje":"Carta añadida correctamente"}
 
